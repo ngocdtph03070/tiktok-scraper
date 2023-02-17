@@ -38,7 +38,7 @@
     "miniget": "^4.2.2",
     "netscape-cookies-parser": "^1.0.2",
     "node-fetch": "^2.6.7",
-    "puppeteer": "^16.0.0",
+    "puppeteer": "^19.7.1",
     "tiktok-signature": "^1.7.3"
   }
 }
